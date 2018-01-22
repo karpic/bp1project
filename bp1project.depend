@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516634193 source:c:\users\arsenije\source\repos\bp1project\main.c
+	<stdio.h>
+	<stdlib.h>
+
